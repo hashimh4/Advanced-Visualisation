@@ -1,0 +1,5 @@
+PyGMT
+matplotlib
+panel
+pandas
+params

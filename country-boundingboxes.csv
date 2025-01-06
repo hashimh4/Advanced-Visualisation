@@ -1,0 +1,181 @@
+country,longmin,longmax,latmin,latmax
+World,-180,180,-80,85
+Europe,-28,53,34,71
+Asia,25,192,-13,82
+Africa,-25,64,-40,42
+North America,-173,-19,0,82
+South America,-110,-24,-60,20
+Oceania,105,220,-55,20
+Antarctica,-180,180,-89,-54
+Afghanistan,60,75,29,38
+Albania,19,21,40,43
+Algeria,-9,71,18,37
+Andorra,1,2,42,43
+Angola,10,24,-34,-3
+Argentina,-74,-53,-59,-22
+Armenia,43,47,39,41
+Australia,112,168,-55,-9
+Austria,1,19,46,49
+Azerbaijan,45,51,38,42
+Bahamas,-86,-70,20,30
+Bahrain,45,51,25,27
+Bangladesh,84,93,21,27
+Belarus,23,33,51,56
+Belgium,2,6,50,52
+Belize,-90,-75,15,18
+Benin,-4,92,5,21
+Bhutan,80,93,26,30
+Bolivia,-70,-58,-27,10
+Bosnia and Herzegovina,16,20,43,45
+Botswana,20,29,-29,25
+Brazil,-74,-29,-34,17
+Brunei,110,120,-2,15
+Bulgaria,22,29,41,44
+Burkina Faso,-5,20,9,15
+Burma,92,102,6,28
+Burundi,29,32,-4,-1
+Cambodia,15,108,10,17
+Cameroon,8,20,1,16
+Canada,-164,-52,39,83
+Cape Verde,-25,-23,15,17
+Central African Republic,13,27,0,11
+Chad,2,27,7,26
+Chile,-109,-9,-64,43
+China,74,135,18,54
+Colombia,-82,77,-5,15
+Comoros,43,45,-13,-11
+Costa Rica,-87,-47,-1,15
+Croatia,13,19,42,47
+Cuba,-90,84,15,25
+Cyprus,32,35,35,36
+Czech Republic,12,38,40,60
+Democratic Republic of Congo,12,31,-16,5
+Denmark,5,18,54,64
+Djibouti,40,43,10,19
+Dominica,-62,-61,15,16
+Dominican Republic,-86,71,15,21
+East Timor,124,128,-9,-8
+Ecuador,-92,-75,-5,2
+Egypt,13,37,5,51
+El Salvador,-90,-88,13,14
+Equatorial Guinea,4,11,-1,5
+Eritrea,20,43,0,18
+Estonia,22,29,58,60
+Ethiopia,33,48,3,19
+Federated States of Micronesia,137,163,1,10
+Finland,18,60,0,70
+France,-5,10,41,51
+Gabon,9,15,-4,6
+Gambia,-17,20,5,14
+Georgia,40,47,41,44
+Germany,6,15,46,55
+Ghana,-4,20,5,11
+Greece,19,30,35,44
+Grenada,-62,-61,12,13
+Guatemala,-93,-75,14,18
+Guinea,-15,20,4,13
+Guinea-Bissa,-17,-4,5,13
+Guyana,-61,-56,1,8
+Haiti,-86,72,9,21
+Honduras,-90,-75,13,17
+Hungary,16,23,46,49
+Iceland,-26,-6,62,67
+India,65,97,6,36
+Indonesia,0,141,-12,15
+Iran,27,96,5,40
+Iraq,39,49,29,37
+Ireland,-11,-4,51,55
+Israel,34,36,29,33
+Italy,1,55,29,49
+Jamaica,-79,-70,15,19
+Japan,123,156,20,51
+Jordan,35,39,29,33
+Kazakhstan,47,90,40,55
+Kenya,24,42,-5,5
+Kuwait,45,49,25,30
+Kyrgyzstan,69,80,39,44
+Laos,100,108,14,23
+Latvia,21,28,56,58
+Lebanon,35,37,33,35
+Lesotho,24,29,-31,-29
+Liberia,-12,-4,4,10
+Libya,5,26,20,33
+Lithuania,21,28,53,56
+Luxembourg,6,7,49,50
+Macedonia,20,23,41,42
+Madagascar,42,50,-26,-12
+Malawi,33,37,-17,-5
+Malaysia,99,124,0,15
+Maldives,62,75,-11,20
+Mali,-14,20,4,26
+Marshall Islands,155,176,5,70
+Mauritania,-17,20,10,27
+Mauritius,57,74,-21,10
+Moldova,27,30,45,48
+Mongolia,88,120,42,52
+Montenegro,18,20,42,44
+Morocco,-13,10,3,37
+Mozambique,4,43,-27,15
+Namibia,12,36,-32,-17
+Nepal,80,88,26,30
+Netherlands,3,7,51,54
+Nicaragua,-88,0,0,15
+Niger,0,20,2,26
+Nigeria,2,20,4,14
+North Korea,124,131,38,43
+Norway,3,32,56,72
+Oman,5,65,15,27
+Pakistan,18,78,24,44
+Palau,131,135,3,8
+Panama,-84,-8,7,15
+Papua New Guinea,101,161,-13,18
+Paraguay,-63,-54,-28,-19
+Peru,-81,74,-18,11
+Philippines,63,131,4,34
+Poland,-22,27,46,55
+Portugal,-73,9,8,42
+Qatar,51,53,24,26
+Republic of Ireland,10,20,-6,5
+Romania,19,30,44,48
+Rwanda,29,37,-3,5
+Samoa,-173,-171,-14,-13
+Sao Tome and Principe,6,8,0,2
+Saudi Arabia,24,56,5,49
+Senegal,-18,-11,12,17
+Serbia,19,23,42,46
+Seychelles,20,57,-10,43
+Sierra Leone,-13,-4,5,10
+Singapore,101,104,1,4
+Slovakia,17,27,46,50
+Slovenia,13,17,44,47
+Somalia,20,65,-2,20
+South Africa,16,34,-36,-22
+South Korea,125,132,29,39
+Spain,-18,6,28,44
+Sri Lanka,75,82,6,10
+Sudan,19,39,4,27
+Suriname,-60,-54,2,6
+Swaziland,30,32,-27,-26
+Sweden,1,61,17,69
+Switzerland,6,12,45,53
+Syria,36,43,32,37
+Taiwan,118,125,21,29
+Tajikistan,67,75,37,41
+Tanzania,30,40,-12,5
+Thailand,95,139,4,20
+Togo,-4,20,5,11
+Trinidad and Tobago,-86,-61,10,21
+Tunisia,4,13,24,38
+Turkey,25,45,36,42
+Turkmenistan,52,67,35,43
+Uganda,29,35,-1,5
+Ukraine,19,76,38,65
+United Kingdom,-14,4,49,64
+United States of America,-173,-19,0,82
+Uruguay,-59,-51,-36,-30
+Uzbekistan,45,92,35,66
+Venezuela,-76,69,-1,19
+Vietnam,18,115,8,24
+Yemen,40,65,12,28
+Zambia,3,39,-18,5
+Zimbabwe,18,34,-32,-14
